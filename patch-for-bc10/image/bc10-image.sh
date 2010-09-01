@@ -2,7 +2,7 @@
 cd ${HOME}/bc10
 cd out/target/product/bc10/
 pwd
-echo "mkdir android for android-rfs"
+echo "Make directory for android rootfilesystem"
 mkdir -p bc10-image
 pwd
 echo "copy android-root"

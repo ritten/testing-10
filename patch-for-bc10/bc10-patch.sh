@@ -334,4 +334,4 @@ echo "Section Ex2 copy bionic/libc/common/linux/omap_resizer.h"
     cp device/beatcraft/patch-for-bc10/patch/bionic/libc/kernel/common/linux/omap_resizer.h bionic/libc/kernel/common/linux/omap_resizer.h
 
 echo "End copy files"
-echo "ALL Section Finished !"
+echo "Whole process is completed !"
